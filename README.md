@@ -21,3 +21,10 @@ Developed a sensor-based autonomous line follower robot using Arduino and embedd
 
 ## Project Files
 - line_follower.ino
+
+## Robot Images
+![Robot](robot.jpeg)
+
+## Circuit Setup
+![Circuit](circuit_diagram.jpeg)
+
